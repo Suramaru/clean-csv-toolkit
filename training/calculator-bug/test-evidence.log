@@ -1,0 +1,8 @@
+Test case: calculator.py
+Inputs: 10, 5
+
+Observed output:
+Add: 15.0
+Subtract: 5.0
+Multiply: 50.0
+Divide: 1.6666666666666667
